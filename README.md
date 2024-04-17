@@ -6,7 +6,7 @@ Entorno de trabajo confirgurado para pentesting, se utiliza bspwm por la agilida
 * [Instalacion](#instalación)
 * [Vista previa](#vista-previa)
 * [Utilidades](#utilidades)
-* [Shortcuts](#shortcuts-(atajos-de-teclado))
+* [Shortcuts](#shortcuts-atajos-de-teclado)
 
 ### Instalación
 ```
