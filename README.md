@@ -3,11 +3,10 @@
 Entorno de trabajo confirgurado para pentesting, se utiliza bspwm por la agilidad en ventanas fomentando el uso del teclado aumentado la productividad.
 
 ## Apartados de entorno kyttycrazy
-* Instalacion
-* Vista previa
-* Utilidades
-* Shortcuts
-* Extenciones
+* [Instalacion](#instalación)
+* [Vista previa](#vista-previa)
+* [Utilidades](#utilidades)
+* [Shortcuts](#shortcuts-(atajos-de-teclado))
 
 ### Instalación
 ```
